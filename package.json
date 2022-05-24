@@ -6,6 +6,9 @@
   "scripts": {
     "build": "webpack lib/webpack.prod.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
